@@ -1,1 +1,1 @@
-# AFC-with-R
+# MallCusromers Segmenting Data with k-Means
